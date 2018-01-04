@@ -1,0 +1,42 @@
+body {
+  font-family: 'Open Sans';
+  color: #FFC6FF;
+  margin: 0;
+  background: #454144;
+}
+.container {
+  position: fixed;
+  margin: 0;
+  width: 100%;
+}
+h1 {
+  font-family: "Permanent Marker";
+  padding-top: 5%;
+  padding-left: 5%;
+  color: #FFC6FF;
+  font-size: 5em;
+}
+p {
+  padding: 0 3em;
+  color: #FEF9FF;
+  max-width: 28em;
+}
+a {
+  color: #B0DAEF;
+  text-decoration: none;
+  padding-left: 5em;
+}
+
+h2 {
+  font-family: "Permanent Marker";
+  padding-left: 2em;
+  padding-top: 5%;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+p.comments {
+  font-size: 0.7em;
+  padding-left: 6em;
+  max-width: 36em;
+}
