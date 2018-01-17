@@ -44,4 +44,6 @@ p.comments {
   max-width: 36em;
 }
 
-
+ul {
+  padding: 0 5em;
+}
