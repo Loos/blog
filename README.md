@@ -1,3 +1,3 @@
 # Louis' Blog
-[Check it out!](www.louisknapp.com/blog)
+[Check it out!](http://www.louisknapp.com/blog)
 
